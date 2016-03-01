@@ -1,0 +1,6 @@
+C:\Users\lua.souza\Documents\GitHub\HackerRank\HackerRank\bin\Debug\HackerRank.dll
+C:\Users\lua.souza\Documents\GitHub\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
+C:\Users\lua.souza\Documents\GitHub\HackerRank\HackerRank\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lua.souza\Documents\GitHub\HackerRank\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
+C:\Users\lua.souza\Documents\GitHub\HackerRank\HackerRank\obj\Debug\HackerRank.dll
+C:\Users\lua.souza\Documents\GitHub\HackerRank\HackerRank\obj\Debug\HackerRank.pdb
